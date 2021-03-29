@@ -14,7 +14,7 @@ mccabe==0.6.1
 mock==2.0.0
 pbr==4.2.0
 pipreqs==0.4.9
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==2.0.0
 pylint-django==2.0
 pylint-plugin-utils==0.4
